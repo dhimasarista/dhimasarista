@@ -22,7 +22,3 @@
 ![Bootstrap](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=Go&color=353535) ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535) ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Fiber&color=353535) ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535) ![Bootstrap](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=React-Native&color=353535) ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
 
 
-
-
----
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
