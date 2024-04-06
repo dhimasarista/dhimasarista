@@ -9,6 +9,7 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### 🌱 I’m Currently Learning 
+![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.Net&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
 
@@ -18,11 +19,10 @@
 - Mobile App
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-Go-05122A?style=flat-square&logo=Go&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Golang-05122A?style=flat-square&logo=Go&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Fiber&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=React&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite&color=353535) 
