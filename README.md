@@ -18,8 +18,7 @@
 - Web App
 - Mobile App
 ### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Golang-05122A?style=flat-square&logo=Go&color=353535) 
+ 
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Express-05122A?style=flat-square&logo=Express&color=353535) 
