@@ -9,9 +9,9 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### 🌱 I’m Currently Learning 
-![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.Net&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) 
 
 ### 🖥 Skills
 
