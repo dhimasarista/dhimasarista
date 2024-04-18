@@ -12,7 +12,7 @@
 ![Bootstrap](https://img.shields.io/badge/-React%20Native-05122A?style=flat-square&logo=React&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
 
-### ⚙️ Programming Language
+### ⚙️ Programming Languages
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
 
