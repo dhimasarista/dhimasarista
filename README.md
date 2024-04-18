@@ -15,6 +15,7 @@
 
 ### ⚙️ Programming Language
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
 
 ### 🧰 Libraries & Frameworks
 ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
