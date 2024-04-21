@@ -9,17 +9,15 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### 🌱 I’m Currently Learning 
-![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.Net&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) 
 
 ### ⚙️ Programming Language
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
 
 ### 🧰 Libraries & Frameworks
-![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.Net&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535)
 
 ### Databases Management System
