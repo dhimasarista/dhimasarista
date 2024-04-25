@@ -16,7 +16,10 @@
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
 
 ### 🧰 Libraries & Frameworks
+![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.NET&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
+![Bootstrap](https://img.shields.io/badge/-React-05122A?style=flat-square&logo=React&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535)
 
