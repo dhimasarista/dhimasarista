@@ -10,7 +10,6 @@
 
 ### 🌱 I’m Currently Learning 
 ![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535) 
 
 ### ⚙️ Programming Language
 ![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=CSharp&color=353535) 
