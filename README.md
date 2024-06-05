@@ -18,7 +18,6 @@
 ### 🧰 Libraries & Frameworks
 ![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.NET&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
-![Bootstrap](https://img.shields.io/badge/-React-Native-05122A?style=flat-square&logo=React&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535)
