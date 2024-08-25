@@ -16,9 +16,10 @@
 ![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
 
 ### 🧰 Libraries & Frameworks
-![Bootstrap](https://img.shields.io/badge/-ASP.NET-05122A?style=flat-square&logo=.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
+![Bootstrap](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat-square&logo=.NET&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535)
 
@@ -29,6 +30,7 @@
 
 ### 💻 Softwares & Tools
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
 
