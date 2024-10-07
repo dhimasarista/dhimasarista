@@ -9,22 +9,20 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### 🌱 I’m Currently Learning 
-![Bootstrap](https://img.shields.io/badge/-MAUI-05122A?style=flat-square&logo=.Net&color=353535) 
+[![MAUI](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+[![GetX](https://img.shields.io/badge/GetX-02569B?logo=getx&logoColor=fff)](#)
 
 ### ⚙️ Programming Language
-![Bootstrap](https://img.shields.io/badge/-CSharp-05122A?style=flat-square&logo=c&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Javascript-05122A?style=flat-square&logo=Javascript&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-PHP-05122A?style=flat-square&logo=PHP&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Golang-05122A?style=flat-square&logo=Go&color=353535) 
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 ### 🧰 Libraries & Frameworks
-![Bootstrap](https://img.shields.io/badge/-ASP.NET_Core-05122A?style=flat-square&logo=.NET&color=353535)
-![Bootstrap](https://img.shields.io/badge/-ExpressJS-05122A?style=flat-square&logo=Express&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Laravel-05122A?style=flat-square&logo=Laravel&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Flutter-05122A?style=flat-square&logo=Flutter&color=353535)
-![Bootstrap](https://img.shields.io/badge/-GetX-05122A?style=flat-square&logo=Getx&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Fiber-05122A?style=flat-square&logo=Go&color=353535)
-![Bootstrap](https://img.shields.io/badge/-Jquery-05122A?style=flat-square&logo=Jquery&color=353535)
+[![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)](#)
+[![Express.js](https://img.shields.io/badge/ExpressJS-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?&logo=go&logoColor=white)](#)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 
 
 ### Databases Management System
@@ -35,6 +33,7 @@
 ### 💻 Softwares & Tools
 ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Postman-05122A?style=flat-square&logo=Postman&color=353535) 
-![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535) 
+![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visualstudiocode&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
+![Bootstrap](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=Ubuntu&color=353535)
 
