@@ -13,7 +13,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![GetX](https://img.shields.io/badge/GetX-02569B?logo=getx&logoColor=fff)](#)
 
-### ⚙️ Programming Language
+### ⚙️ Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
