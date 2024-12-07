@@ -14,8 +14,8 @@
 [![GetX](https://img.shields.io/badge/GetX-02569B?logo=getx&logoColor=fff)](#)
 
 ### ⚙️ Programming Languages
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-F7DF1E?logo=PHP&logoColor=000)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=pink)](#)
+[![PHP](https://img.shields.io/badge/PHP-AEB2D5?logo=PHP&logoColor=000)](#)
 
 ### 🧰 Libraries & Frameworks
 [![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)](#)
