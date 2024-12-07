@@ -15,7 +15,7 @@
 
 ### ⚙️ Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
+[![PHP](https://img.shields.io/badge/PHP-F7DF1E?logo=PHP&logoColor=000)](#)
 
 ### 🧰 Libraries & Frameworks
 [![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)](#)
