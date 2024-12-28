@@ -10,8 +10,7 @@
 
 ### 🌱 I’m Currently Learning 
 [![MAUI](https://img.shields.io/badge/MAUI-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Java](https://custom-icon-badges.demolab.com/badge/Java-%230073D1.svg?logo=java&logoColor=white)](#)
-[![Spring Boot](https://custom-icon-badges.demolab.com/badge/Spring%20Boot-%236DB33F.svg?logo=spring&logoColor=white)](#)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 
 ### ⚙️ Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=pink)](#)
@@ -19,7 +18,6 @@
 
 ### 🧰 Libraries & Frameworks
 [![ASP.NET CORE](https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=fff)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
 [![GetX](https://img.shields.io/badge/GetX-02569B?logo=getx&logoColor=fff)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![Express.js](https://img.shields.io/badge/ExpressJS-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
