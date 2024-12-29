@@ -1,4 +1,4 @@
-# Dhimas Arista
+  # Dhimas Arista
 
 
 
@@ -36,5 +36,3 @@
 ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=visualstudiocode&color=353535) 
 ![Bootstrap](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&color=353535)
 ![Bootstrap](https://img.shields.io/badge/-Ubuntu-05122A?style=flat-square&logo=Ubuntu&color=353535)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&theme=tokyonight)
