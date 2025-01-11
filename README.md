@@ -11,7 +11,6 @@
 
 ### 🧰 Libs, Framework & Others
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
-[![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23D81C27?logo=redis&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?logo=jquery&logoColor=white)
