@@ -8,7 +8,7 @@
 ### ⚙️ Programming Languages
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23FF69B4.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%237C4DFF?logo=PHP&logoColor=white)](#)
-[![Go](https://img.shields.io/badge/Golang-%2313A8A8?logo=go&logoColor=white)](#)
+<!-- [![Go](https://img.shields.io/badge/Golang-%2313A8A8?logo=go&logoColor=white)](#) -->
 
 ### 🧰 Libs, Framework & Others
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
