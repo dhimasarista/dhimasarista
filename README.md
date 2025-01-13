@@ -12,13 +12,8 @@
 
 ### 🧰 Libs, Framework & Others
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
-[![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23D81C27?logo=redis&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD?logo=jquery&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-%23B0B0B0?logo=socketdotio&logoColor=white)
-
-### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC?logo=visualstudiocode&logoColor=white)
