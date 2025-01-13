@@ -10,7 +10,7 @@
 [![PHP](https://img.shields.io/badge/PHP-%237C4DFF?logo=PHP&logoColor=white)](#)
 <!-- [![Go](https://img.shields.io/badge/Golang-%2313A8A8?logo=go&logoColor=white)](#) -->
 
-### 🧰 Libs, Framework & Others
+### 🧰 Tools
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300A9E0?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23D81C27?logo=redis&logoColor=white)
