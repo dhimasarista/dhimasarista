@@ -13,7 +13,8 @@
 ![Redis](https://img.shields.io/badge/Redis-%23D81C27?logo=redis&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%23B0B0B0?logo=socketdotio&logoColor=white)
-
+![jQuery](https://img.shields.io/badge/jQuery-%230e76a8?logo=jquery&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-%2308B8E2?logo=livewire&logoColor=white)
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
