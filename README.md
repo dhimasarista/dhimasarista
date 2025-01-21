@@ -6,7 +6,7 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### ⚙️ Technical Skills
-[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23FF69B4.svg?logo=cshrp&logoColor=white)](#)
+[![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF69B4.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%237C4DFF?logo=PHP&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-000000?logo=adonisjs&logoColor=white&color=grey)
