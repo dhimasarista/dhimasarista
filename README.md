@@ -14,6 +14,7 @@
 ![Redis](https://img.shields.io/badge/Redis-%23D81C27?logo=redis&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230e76a8?logo=jquery&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Livewire-%2308B8E2?logo=livewire&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-%2303A9F4?logo=htmx&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=white)
 
