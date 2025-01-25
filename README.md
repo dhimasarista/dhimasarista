@@ -6,16 +6,16 @@
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
 ### ⚙️ Technical Skills
-[![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF69B4.svg?logo=cshrp&logoColor=white)](#)
-![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel-%23F05F40?logo=laravel&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-%234C9EBD?logo=go&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-2E2E2E?logo=adonisjs&logoColor=white&color=grey)
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
-![MySQL](https://img.shields.io/badge/MySQL-%2300618D?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23D82C2D?logo=redis&logoColor=white)
-![HTMX](https://img.shields.io/badge/HTMX-%234E92A0?logo=htmx&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-%236BAFE1?logo=go&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
+[![FastAPI](https://img.shields.io/badge/FastAPI-00B38D.svg?logo=fastapi&logoColor=white)](#)
+![HTMX](https://img.shields.io/badge/HTMX-%2376B4D7?logo=htmx&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF4C18?logo=svelte&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
