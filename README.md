@@ -11,7 +11,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
 ![Fiber](https://img.shields.io/badge/Fiber-%236BAFE1?logo=go&logoColor=white)
-[![FastAPI](https://img.shields.io/badge/FastAPI-00B38D.svg?logo=fastapi&logoColor=white)](#)
 ![HTMX](https://img.shields.io/badge/HTMX-%2376B4D7?logo=htmx&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF4C18?logo=svelte&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
