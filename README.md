@@ -1,4 +1,4 @@
-# Dhimas Arista
+# Muhammad Dhimas Arista
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhimasarista@gmail.com)
