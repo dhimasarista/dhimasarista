@@ -11,6 +11,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
 ![Fiber](https://img.shields.io/badge/Fiber-%236BAFE1?logo=go&logoColor=white)
+[![Express.js](https://img.shields.io/badge/ExpressJS-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
 [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![Svelte](https://img.shields.io/badge/Svelte-%23FF4C18?logo=svelte&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
