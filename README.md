@@ -11,14 +11,14 @@
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
 ![Fiber](https://img.shields.io/badge/Fiber-blue?logo=go&logoColor=white&color=blue)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![Socket.io](https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
