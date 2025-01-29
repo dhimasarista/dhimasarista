@@ -8,6 +8,9 @@
 ### ⚙️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
+[![Golang](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black)](#)
+[![Node.js](https://img.shields.io/badge/NodeJS-%23339933?logo=node.js&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
 ![Fiber](https://img.shields.io/badge/Fiber-%236BAFE1?logo=go&logoColor=white)
