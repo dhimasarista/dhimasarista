@@ -10,6 +10,7 @@
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
+![Fiber](https://img.shields.io/badge/Fiber-blue?logo=go&logoColor=white&color=blue)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
