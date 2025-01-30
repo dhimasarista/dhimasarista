@@ -14,10 +14,10 @@
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
 ### 💻 Softwares & Tools
+[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
+[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff&color=gray)](#)
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
-[![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
-[![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff)](#)
 ![Socket.io](https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
