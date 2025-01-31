@@ -13,6 +13,14 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
+### Know Bit
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white)
+![Golang](https://img.shields.io/badge/Fiber-%2300ADD8?logo=go&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-%232C3E50?logo=electron&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%23025698?logo=flutter&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-%2300679D?logo=htmx&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00?logo=svelte&logoColor=white)
+
 ### 💻 Softwares & Tools
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff)](#)
 [![HTMX](https://img.shields.io/badge/HTMX-36C?logo=htmx&logoColor=fff&color=gray)](#)
