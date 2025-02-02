@@ -5,6 +5,10 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
+Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy **C#** for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
+
+My focus is on **AdonisJS** as a **NodeJS** backend framework and **Laravel** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL** and **Redis**.
+
 ### 🏗️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
