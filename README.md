@@ -17,6 +17,11 @@ My focus is on **Laravel** and **NodeJS** due to its relevance in the industry, 
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
+## 🌱 Current Learning
+- Java 21 and Virtual Threads
+- NestJS & TypeORM
+- GraphQL
+
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
