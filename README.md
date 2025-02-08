@@ -9,7 +9,7 @@ Passionate about Backend Development, System Architecture, API Design, and Distr
 
 My focus is on **Laravel** and **NodeJS** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL** and **Redis**.
 
-### 🏗️ Technical Skills
+## 🏗️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&logo=php&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
@@ -17,7 +17,12 @@ My focus is on **Laravel** and **NodeJS** due to its relevance in the industry, 
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 
-### 💻 Softwares & Tools
+## 🌱 Current Learning
+![Java](https://img.shields.io/badge/Java-%23F8981D?logo=openjdk&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?logo=graphql&logoColor=white)
+
+## 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white)
