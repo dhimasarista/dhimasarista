@@ -9,14 +9,14 @@ Passionate about Backend Development, System Architecture, API Design, and Distr
 
 Currently, I am focused on **PHP** and **Laravel** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL**, **Redis**. I am also interested in **Java** and **Spring Boot** to expand my expertise in enterprise-level applications and backend development.
 ## 🏗️ Technical Skills
-[![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
-![Java](https://img.shields.io/badge/Java-F80000?logo=openjdk&logoColor=white&style=flat)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
-![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/PHP-7E70BA?logo=php&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java-EB5A5A?logo=openjdk&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ## 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
