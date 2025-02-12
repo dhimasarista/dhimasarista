@@ -7,15 +7,13 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy **C#** for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
-My focus is on **PHP** and **Laravel** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL** and **Redis**.
+Currently, I am focused on **PHP** and **Laravel** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL**, **Redis**. Additionally, I am interested in learning **Java** and **Spring Boot** to expand my skills in enterprise-level applications and backend development.
 
 ## 🏗️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
-![Java](https://img.shields.io/badge/Java-F80000?logo=openjdk&logoColor=white&style=flat)
-![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 ## 💻 Softwares & Tools
