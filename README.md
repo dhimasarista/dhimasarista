@@ -11,8 +11,10 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ## 🏗️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23FF66B2.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)](#)
+![Java](https://img.shields.io/badge/Java-F80000?logo=openjdk&logoColor=white&style=flat)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF5C34?logo=laravel&logoColor=white)
-[![AdonisJS](https://img.shields.io/badge/AdonisJS-343434?logo=adonisjs&logoColor=fff)](#)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-3C3C3C?logo=adonisjs&logoColor=white&color=grey)
 ![MySQL](https://img.shields.io/badge/MySQL-%230087B7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23E94C47?logo=redis&logoColor=white)
 ## 💻 Softwares & Tools
