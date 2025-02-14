@@ -7,7 +7,7 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy **C#** for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
-Currently, I am focused on **PHP** and **Laravel** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL**, **Redis**. I am also interested in **Java** and **Spring Boot** to expand my expertise in enterprise-level applications and backend development.
+Currently, I am focused on **PHP** and **Java** due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including RESTful APIs and MVC applications, while also working with database management systems like **MySQL**, **Redis**.
 ## 🏗️ Technical Skills
 [![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)](#)
 [![PHP](https://img.shields.io/badge/PHP-7E70BA?logo=php&logoColor=white)](#)
