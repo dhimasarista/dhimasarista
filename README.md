@@ -12,7 +12,6 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-7E70BA?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ### 💻 Softwares & Tools
@@ -25,6 +24,7 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
 
-<!-- ![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
+<!--
+![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
