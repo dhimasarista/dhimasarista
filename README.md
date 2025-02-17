@@ -14,9 +14,7 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ![PHP](https://img.shields.io/badge/PHP-7E70BA?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ### 🌱 Additional Proficiencies
-![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
 [![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
