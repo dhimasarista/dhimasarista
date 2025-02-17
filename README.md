@@ -29,3 +29,4 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 
 <!--
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
