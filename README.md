@@ -15,6 +15,9 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
+### 🌱 Additional Proficiencies
+![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
@@ -28,6 +31,3 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 <!--
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-### 🌱 Additional Proficiencies
-![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
