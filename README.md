@@ -17,7 +17,6 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 ### 🌱 Additional Proficiencies
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
 [![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ### 💻 Softwares & Tools
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
@@ -32,3 +31,4 @@ Currently, I am focused on **PHP** and **Laravel** due to its relevance in the i
 <!--
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
+[![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
