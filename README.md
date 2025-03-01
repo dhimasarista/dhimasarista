@@ -7,7 +7,7 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
-Currently, I am focused on PHP and NodeJS due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Dtiven and MVC applications, while also working with database management systems like SQL, Redis.
+Currently, I am focused on PHP and NodeJS due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
