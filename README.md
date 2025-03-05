@@ -15,7 +15,7 @@ Currently, I am focused on PHP and NodeJS due to its relevance in the industry, 
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/PostgreSQL-4C9EC7?logo=postgresql&logoColor=white)
 ### 💻 Softwares & Tools
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
@@ -35,3 +35,4 @@ Currently, I am focused on PHP and NodeJS due to its relevance in the industry, 
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
 [![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
