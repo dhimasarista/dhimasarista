@@ -7,17 +7,16 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
-Currently, I am focused on PHP and NodeJS due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
+Currently, I am focused on NestJS and Laravel due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-0056A3?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-70B27A?logo=node.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-![MySQL](https://img.shields.io/badge/PostgreSQL-4C9EC7?logo=postgresql&logoColor=white)
-### 💻 Softwares & Tools
+[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
+![POSTGRE](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
+### 💻 Softwares & Tools
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white)
@@ -33,6 +32,6 @@ Currently, I am focused on PHP and NodeJS due to its relevance in the industry, 
 
 ### 🌱 Additional Proficiencies
 ![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
-[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)A
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
