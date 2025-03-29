@@ -7,12 +7,12 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
-Currently, I am focused on NestJS and Laravel due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
+Currently, I am focused on NodeJS and Laravel due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
-[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)x
+[![NodeJS](https://img.shields.io/badge/NodeJS-%23E0234E.svg?logo=node&logoColor=white)](#)A
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![POSTGRE](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
