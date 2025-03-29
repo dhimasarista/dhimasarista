@@ -11,8 +11,8 @@ Currently, I am focused on NodeJS and Laravel due to its relevance in the indust
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)x
-[![NodeJS](https://img.shields.io/badge/NodeJS-%23E0234E.svg?logo=node&logoColor=white)](#)A
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
+[![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F.svg?logo=node.js&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![POSTGRE](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
