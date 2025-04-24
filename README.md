@@ -26,7 +26,8 @@ Currently, I am focused on NodeJS and Laravel due to its relevance in the indust
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
 
-![My Coding Journey - Frame 5](https://github.com/user-attachments/assets/88b3c6e3-ca6d-480a-a302-293f61444e97)
+![My Coding Journey - Frame 5 (1)](https://github.com/user-attachments/assets/41682a85-200b-49be-a0ae-462702fa695f)
+
 
 
 <!--
