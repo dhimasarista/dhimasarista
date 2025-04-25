@@ -5,9 +5,6 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
-### 🧭 My Coding Journey  
-[https://miro.com/app/board/uXjVI_FQdSQ=/?share_link_id=788688126712](https://miro.com/app/board/uXjVI_FQdSQ=/?share_link_id=788688126712)
-
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
 
 Currently, I am focused on NodeJS and Laravel due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
@@ -28,6 +25,9 @@ Currently, I am focused on NodeJS and Laravel due to its relevance in the indust
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
+
+### 🧭 My Coding Journey 
+![My Coding Journey - Frame 6](https://github.com/user-attachments/assets/5573aa7e-6743-4004-954c-10e9e171de77)
 
 
 
