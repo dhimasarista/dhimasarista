@@ -11,7 +11,6 @@ Currently, I am focused on NodeJS and Laravel due to its relevance in the indust
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 [![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F.svg?logo=node.js&logoColor=white)](#)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![POSTGRE](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
@@ -29,11 +28,11 @@ Currently, I am focused on NodeJS and Laravel due to its relevance in the indust
 
 
 <!--
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 ![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
 
 ### 🌱 Additional Proficiencies
-![Java](https://custom-icon-badges.demolab.com/badge/Java-EB5A5A.svg?logo=java221&logoColor=white)
 [![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)A
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
