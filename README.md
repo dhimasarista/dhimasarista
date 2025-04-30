@@ -5,9 +5,9 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
-Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# for its well-defined object-oriented programming (OOP) principles, rich data structures, concurrency programming, and programmability, which help me better understand and adapt to other programming languages or frameworks.
+Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy C# and TypeScript for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability, which help me better understand and adapt to other programming languages and frameworks.
 
-Currently, I am focused on NodeJS and Laravel due to its relevance in the industry, leveraging its extensive ecosystem to develop efficient software solutions, including API Driven and MVC applications, while also working with database management systems like SQL, Redis.
+I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to MVC-based applications—while also incorporating event-driven patterns and ensuring reliable data persistence and system responsiveness across services.
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
