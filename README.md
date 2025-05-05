@@ -7,19 +7,17 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages like C# for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature—neither overly verbose nor overly simplistic—enables me to stay productive and write maintainable, scalable software with confidence.
 
-I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS and occasionally Spring Boot when the use case calls for it. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
+I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS, with Laravel and Spring Boot as alternative frameworks depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
-![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
-[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
-### 🌱 Additional Proficiencies
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+
 ### 💻 Softwares & Tools
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
@@ -34,7 +32,9 @@ I leverage their extensive ecosystems to build efficient software solutions—ra
 
 <!--
 [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](#)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-5A5A5A?logo=adonisjs&logoColor=white)
+[![Nest](https://img.shields.io/badge/NestJS-%23E0234E.svg?logo=nestjs&logoColor=white)](#)
 ### 🌱 Additional Proficiencies
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
