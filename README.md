@@ -9,6 +9,8 @@ Passionate about Backend Development, System Architecture, API Design, and Distr
 
 I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS, with Laravel and Spring Boot as alternative frameworks depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
 
+Although I’m able to work with a range of programming languages, I tend to avoid overly minimalistic ones—even if they offer fast performance—when their syntax is overly implicit or prioritizes convenience over structural clarity. In complex systems, this often becomes unnecessarily challenging and mentally draining to work with over time.
+
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
