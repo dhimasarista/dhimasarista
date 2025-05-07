@@ -5,7 +5,7 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
-Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages like C# and TypeScript for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature—avoiding both excessive verbosity and extreme minimalism—enables me to stay productive and write maintainable, scalable software with confidence.
+Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages like C# for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature—avoiding both excessive verbosity and extreme minimalism—enables me to stay productive and write maintainable, scalable software with confidence.
 
 I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS, with Spring Boot or Laravel as alternative frameworks depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
 
