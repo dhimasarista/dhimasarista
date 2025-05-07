@@ -7,7 +7,7 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages like C# and TypeScript for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature—avoiding both excessive verbosity and extreme minimalism—enables me to stay productive and write maintainable, scalable software with confidence.
 
-I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications best suited to the project’s requirements. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
+I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS, with Spring Boot or Laravel as alternative frameworks depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
 
 Although I’m able to work with a range of programming languages, I tend to avoid languages that are either too minimalistic or excessively verbose—especially when their syntax prioritizes convenience or explicitness at the cost of clarity and long-term maintainability. In complex systems, this can lead to unnecessary friction and mental overhead over time.
 
