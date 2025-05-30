@@ -9,11 +9,13 @@ Passionate about Backend Development, System Architecture, API Design, and Distr
 
 I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS or Laravel depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
 
-Although I’m able to work with a range of programming languages, I tend to avoid languages that are either too minimalistic or excessively verbose—especially when their syntax prioritizes convenience or explicitness at the cost of clarity and long-term maintainability. In complex systems, this can lead to unnecessary friction and mental overhead over time.
+I enjoy exploring mobile development as a creative outlet—allowing me to experiment with interactive user experiences while staying grounded in clean architectural thinking.
 
-### 🏗️ Technical Skills
+### 🏗️ 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23f1413d.svg?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend_Dev-222222?logo=circleci&logoColor=white)
+![Mobile App](https://img.shields.io/badge/Mobile_Dev-009688?logo=android&logoColor=white)
 
 ### 🌱 Additional Proficiencies
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
