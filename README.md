@@ -11,7 +11,7 @@ I leverage their extensive ecosystems to build efficient software solutions—ra
 
 I also enjoy exploring mobile app development—not just for building features, but for understanding how architectural decisions impact usability, performance, and maintainability at scale.
 
-### 🏗️ 
+### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
 ![Backend](https://img.shields.io/badge/Backend_Dev-222222?logo=circleci&logoColor=white)
