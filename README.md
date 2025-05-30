@@ -7,9 +7,9 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages like C# for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature—avoiding both excessive verbosity and extreme minimalism—enables me to stay productive and write maintainable, scalable software with confidence.
 
-I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS or Laravel depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services.
+I leverage their extensive ecosystems to build efficient software solutions—ranging from RESTful API services to monolithic applications—primarily using NodeJS or Laravel depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
 
-I enjoy exploring mobile development as a creative outlet—allowing me to experiment with interactive user experiences while staying grounded in clean architectural thinking.
+I also enjoy exploring mobile app development—not just for building features, but for understanding how architectural decisions impact usability, performance, and maintainability at scale.
 
 ### 🏗️ 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
