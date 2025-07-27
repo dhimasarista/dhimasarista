@@ -14,7 +14,6 @@ I leverage their extensive ecosystems to build efficient software solutions rang
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 
@@ -30,5 +29,6 @@ I leverage their extensive ecosystems to build efficient software solutions rang
 
 
 <!--
+![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white)
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4C9EC7?logo=mysql&logoColor=white)
+
