@@ -7,13 +7,14 @@
 
 Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages C#/Java for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature avoiding both excessive verbosity and extreme minimalism enables me to stay productive and write maintainable, scalable software with confidence.
 
-I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications primarily using NodeJS or Laravel depending on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
+I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
 
 ### 🏗️ Technical Skills
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 
@@ -29,6 +30,5 @@ I leverage their extensive ecosystems to build efficient software solutions rang
 
 
 <!--
-![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white)
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
 
