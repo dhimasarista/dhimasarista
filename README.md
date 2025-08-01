@@ -1,11 +1,11 @@
-# Muhammad Dhimas Arista
+# C# | Programmer
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhimasarista@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
-Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages C#/Java for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature avoiding both excessive verbosity and extreme minimalism enables me to stay productive and write maintainable, scalable software with confidence.
+Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages C# Java for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature avoiding both excessive verbosity and extreme minimalism enables me to stay productive and write maintainable, scalable software with confidence.
 
 I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
 
