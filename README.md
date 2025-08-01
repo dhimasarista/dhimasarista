@@ -9,14 +9,10 @@ Passionate about Backend Development, System Architecture, API Design, and Distr
 
 I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
 
-### 🏗️ Technical Skills
-![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
+| 🏗️ Technical Skills | 🌱 Proficiencies |
+|-------------------------|----------------------|
+| ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white) ![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB) |
+
 
 ### 💻 Softwares & Tools
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
@@ -27,7 +23,7 @@ I leverage their extensive ecosystems to build efficient software solutions rang
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
-
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white)
 
 <!--
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
