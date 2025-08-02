@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Hyperledger (Java)
 
-- ⚡ Fun fact: I can't code using 🐍
+- 🧠 I always tried to be correct, not politically correct. Lee Kuan Yew
 
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
