@@ -1,11 +1,4 @@
-# ☕ C# | Programmer
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhimasarista@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
-[![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
-
-<h1 align="center">Hi 👋, I'm Dhimas Arista</h1>
+<h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">A passionate backend & app developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimasarista" alt="dhimasarista" /></a> </p>
@@ -30,4 +23,8 @@
 
 <!--
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
-
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhimasarista@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
+[![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
