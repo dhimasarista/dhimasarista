@@ -2,9 +2,9 @@
 <h3 align="center">A passionate backend & app developer</h3>
 
 
-- 🔭 I’m currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
+- ⚒️ Currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
 
-- 🌱 I’m currently learning Hyperledger (Java)
+- 🌱 Currently learning Hyperledger (Java)
 
 - 🧠 I always tried to be correct, not politically correct. Lee Kuan Yew
 
