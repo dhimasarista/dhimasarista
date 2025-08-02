@@ -5,9 +5,12 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
 [![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
 
-Passionate about Backend Development, System Architecture, API Design, and Distributed Systems. I deeply enjoy moderately expressive languages C# Java for their well-defined object-oriented programming (OOP) principles, rich data structures, concurrency support, and programmability. Their balanced nature avoiding both excessive verbosity and extreme minimalism enables me to stay productive and write maintainable, scalable software with confidence.
+<h1 align="center">Hi 👋, I'm Dhimas Arista</h1>
+<h3 align="center">A passionate backend & app developer</h3>
 
-I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context. I incorporate event-driven patterns and ensure reliable data persistence and system responsiveness across services. 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimasarista" alt="dhimasarista" /></a> </p>
+
+- 🔭 I’m currently working on [Nakoin: Exchange Crypto-Fiat](https://github.com/dhimasarista/nakoin)
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
 |-------------------------|----------------------|
