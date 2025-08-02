@@ -1,9 +1,13 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">A passionate backend & app developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhimasarista" alt="dhimasarista" /></a> </p>
 
 - 🔭 I’m currently working on [Nakoin: Exchange Crypto-Fiat](https://github.com/dhimasarista/nakoin)
+- 🌱 I’m currently learning Hyperledger (Java)
+-❓ Ask me about anything related to 
+
+-⚡ Fun fact: I
+
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
 |-------------------------|----------------------|
