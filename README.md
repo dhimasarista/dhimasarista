@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning Hyperledger (Java)
 
-- ❓ Ask me about anything related to 
-
-- ⚡ Fun fact: I
+- ⚡ Fun fact: I can't code using 🐍
 
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
