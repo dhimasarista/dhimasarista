@@ -3,10 +3,12 @@
 
 
 - 🔭 I’m currently working on [Nakoin: Exchange Crypto-Fiat](https://github.com/dhimasarista/nakoin)
-- 🌱 I’m currently learning Hyperledger (Java)
--❓ Ask me about anything related to 
 
--⚡ Fun fact: I
+- 🌱 I’m currently learning Hyperledger (Java)
+
+- ❓ Ask me about anything related to 
+
+- ⚡ Fun fact: I
 
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
