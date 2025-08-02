@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend & app developer</h3>
 
 
-- 🔭 I’m currently working on [Nakoin: Exchange Crypto-Fiat](https://github.com/dhimasarista/nakoin)
+- 🔭 I’m currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
 
 - 🌱 I’m currently learning Hyperledger (Java)
 
