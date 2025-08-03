@@ -1,12 +1,10 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
-<h3 align="center">A passionate backend & app developer</h3>
+<h3 align="center">a passionate backend & app developer</h3>
 
-
+- 🔥 C# & Java ... writing once, running more than once.
 - ⚒️ Currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
-
 - 🌱 Currently learning Hyperledger (Java)
-
-- 🧠 I always tried to be correct, not politically correct. Lee Kuan Yew
+- 🧠 "Be correct, not politically correct." - Lee Kuan Yew
 
 
 | 🏗️ Technical Skills | 🌱 Proficiencies |
