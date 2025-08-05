@@ -1,7 +1,7 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">a passionate backend & app developer</h3>
 
-- 🔥 Core: ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
+#### 🔥 Core: ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white)
 - ⚒️ Currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
 - 🌱 Currently learning Hyperledger (Java)
 - 🧠 "Be correct, not politically correct." - Lee Kuan Yew
