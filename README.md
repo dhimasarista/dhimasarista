@@ -5,10 +5,10 @@
 - 🌱 Currently learning Hyperledger (Java)
 - 🧠 "Be correct, not politically correct." - Lee Kuan Yew
 
-
 | Core | Corework | Extended |
 |-------------------------|----------------------|----------------------|
-| ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=flat-square) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=coffeescript&logoColor=white&style=flat-square) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=flat-square) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/Golang-%2300ADD8.svg?logo=go&logoColor=white&style=flat-square)  ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=flat-square) |
+| ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge) ![React Native](https://img.shields.io/badge/React%20Native-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) |
+
 
 ### 💻 Softwares & Tools
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
