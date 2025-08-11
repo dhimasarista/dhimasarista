@@ -28,6 +28,7 @@
 ![](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
+![](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df)
 <!--
 | Core | Corework | Proficiencies |
 |-------------------------|----------------------|----------------------|
