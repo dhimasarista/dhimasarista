@@ -12,7 +12,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white&style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white&style=for-the-badge)
 
-### 💻 Other Proficiencies
+### 💻 Proficiencies
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white)	
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
@@ -25,7 +25,9 @@
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white)
-
+![](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
 <!--
 | Core | Corework | Proficiencies |
 |-------------------------|----------------------|----------------------|
