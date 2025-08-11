@@ -5,30 +5,36 @@
 - 🌱 Currently learning Hyperledger (Java)
 - 🧠 "Be correct, not politically correct." - Lee Kuan Yew
 
-### 🏗️ Corework
-![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge)
+<h3 align="center">🏗️ Corework</h3>
+<p align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge" />
+</p>
 
-### 💻 Proficiencies
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white)	
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white)
-![Socket.io](https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white)
-![](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff)
-![](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white)
-![](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df)
+<h3 align="center">💻 Proficiencies</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" />
+</p>
+
+
 <!--
 | Core | Corework | Proficiencies |
 |-------------------------|----------------------|----------------------|
