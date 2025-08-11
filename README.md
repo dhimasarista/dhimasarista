@@ -1,39 +1,39 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
-<h3 align="center">a passionate backend & app developer </h3>
+<h3 align="center">a passionate backend & app developer</h3>
 
-<div align="center">
-  <p>⚒️ Currently working on <a href="https://github.com/dhimasarista/nakoin">Nakoin</a></p>
-  <p>🌱 Currently learning Hyperledger (Java)</p>
-  <p>🧠 "Be correct, not politically correct." - Lee Kuan Yew</p>
+<div style="max-width: 600px; margin: 1rem auto; text-align: left; font-size: 1.1rem; line-height: 1.5;">
+  <p>⚒️ <strong>Currently working on</strong> <a href="https://github.com/dhimasarista/nakoin">Nakoin</a></p>
+  <p>🌱 <strong>Currently learning</strong> Hyperledger (Java)</p>
+  <p>🧠 <em>"Be correct, not politically correct." - Lee Kuan Yew</em></p>
 </div>
 
-<h3 align="center">🏗️ Corework</h3>
-<p align="center">
-  <img src="https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge" />
+<h3 align="center" style="margin-top: 3rem;">🏗️ Corework</h3>
+<p align="center" style="margin-bottom: 3rem;">
+  <img src="https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
+  <img src="https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
+  <img src="https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
 </p>
 
-<h3 align="center">💻 Proficiencies</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" />
+<h3 align="center" style="margin-bottom: 1rem;">💻 Proficiencies</h3>
+<p align="center" style="max-width: 800px; margin: 0 auto;">
+  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" style="margin: 5px;" />
 </p>
 
 
