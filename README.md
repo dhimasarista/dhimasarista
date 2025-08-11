@@ -9,10 +9,10 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white&style=for-the-badge)
 
 ### 💻 Proficiencies
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white)	
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
