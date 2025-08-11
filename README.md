@@ -7,16 +7,16 @@
   <p>🧠 <em>"Be correct, not politically correct." - Lee Kuan Yew</em></p>
 </div>
 
-<h3 align="center" style="margin-top: 3rem;">🏗️ Corework</h3>
-<p align="center" style="margin-bottom: 3rem;">
+<h3 align="left" style="margin-top: 3rem;">🏗️ Corework</h3>
+<p align="left" style="margin-bottom: 3rem;">
   <img src="https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
   <img src="https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
   <img src="https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge" style="margin: 0 8px;"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white&style=for-the-badge" style="margin: 0 8px;" />
 </p>
 
-<h3 align="center" style="margin-bottom: 1rem;">💻 Proficiencies</h3>
-<p align="center" style="max-width: 800px; margin: 0 auto;">
-  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" style="margin: 5px;" />
+<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Proficiencies</h3>
+<p style="max-width: 800px; margin: 0 auto; text-align: left;">
   <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white" style="margin: 5px;" />
@@ -35,6 +35,7 @@
   <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" style="margin: 5px;" />
 </p>
+
 
 
 <!--
