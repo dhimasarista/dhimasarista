@@ -5,13 +5,17 @@
 - 🌱 Currently learning Hyperledger (Java)
 - 🧠 "Be correct, not politically correct." - Lee Kuan Yew
 
-| Core | Corework | Proficiencies |
-|-------------------------|----------------------|----------------------|
-| ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+### 🏗️ Corework
+![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white&style=for-the-badge)
 
-### 💻 Softwares & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white)
+### 💻 Other Proficiencies
+![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white)
+![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white)	
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white)
@@ -23,6 +27,10 @@
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white)
 
 <!--
+| Core | Corework | Proficiencies |
+|-------------------------|----------------------|----------------------|
+| ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
+
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
