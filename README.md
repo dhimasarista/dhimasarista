@@ -1,9 +1,11 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">a passionate backend & app developer </h3>
 
-- ⚒️ Currently working on [Nakoin](https://github.com/dhimasarista/nakoin)
-- 🌱 Currently learning Hyperledger (Java)
-- 🧠 "Be correct, not politically correct." - Lee Kuan Yew
+<div align="center">
+  <p>⚒️ Currently working on <a href="https://github.com/dhimasarista/nakoin">Nakoin</a></p>
+  <p>🌱 Currently learning Hyperledger (Java)</p>
+  <p>🧠 "Be correct, not politically correct." - Lee Kuan Yew</p>
+</div>
 
 <h3 align="center">🏗️ Corework</h3>
 <p align="center">
