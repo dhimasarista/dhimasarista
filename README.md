@@ -2,14 +2,14 @@
 <h3 align="center">Backend & App Developer</h3>
 
 ### Corework Build 🏗️
-- **Core :** ⛩️ C# 🐢 NodeJS  
+- **Codebase :** ⛩️ C# 🐢 NodeJS  
 - **Datasource:** PostgreSQL, Redis  
 
 ---
 
 ### Proficient / FTL 🌵
-- **Langs :** ☕ Java 🔖 Dlang  
-- **Fr / Libs:** Laravel, Fiber, React Native  
+- **Codebase :** ☕ Java 🎴 D
+- **Fr / Libs:** Laravel, Fiber, RN  
 
 ---
 
