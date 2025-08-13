@@ -18,11 +18,6 @@
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
-  <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" style="margin: 5px;" />
