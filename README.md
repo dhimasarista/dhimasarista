@@ -1,12 +1,12 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
-<h3 align="center">a passionate backend & app developer</h3>
+<h3 align="center">Backend & App Developer</h3>
 
 - 🏗️ **Corework : C# | Java | NodeJS**
 - ⚒️ <strong>Currently working on</strong> <a href="https://github.com/dhimasarista/nakoin">Nakoin</a>
 - 🌱 <strong>Currently learning</strong> Hyperledger (Java)
 - 🧠 <em>"Be correct, not politically correct." - Lee Kuan Yew</em>
 
-<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Proficiencies</h3>
+<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
   <img src="https://img.shields.io/badge/PostgreSQL-0056A3?logo=postgresql&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Redis-ED5454?logo=redis&logoColor=white" style="margin: 5px;" />
