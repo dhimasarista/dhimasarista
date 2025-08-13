@@ -3,9 +3,6 @@
 
 ### Corework Build 🏗️
 - **Core :** ⛩️ C# 🐢 NodeJS  
-- **Infra :** PM2, RabbitMQ, Nginx  
-- **Job Queue :** BullMQ, Event Emitter  
-- **Optimization:** Cluster, TinyPool, Caching  
 - **Datasource:** Postgres, Redis  
 
 ---
