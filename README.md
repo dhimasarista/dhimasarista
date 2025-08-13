@@ -1,10 +1,20 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">Backend & App Developer</h3>
 
-- 🏗️ **Corework : C# | Java | NodeJS**
-- ⚒️ <strong>Currently working on</strong> <a href="https://github.com/dhimasarista/nakoin">Nakoin</a>
-- 🌱 <strong>Currently learning</strong> Hyperledger (Java)
-- 🧠 <em>"Be correct, not politically correct." - Lee Kuan Yew</em>
+## 1️⃣ Corework Build 🏗️
+- **Core : ** ⛩️ C# 🐢 NodeJS  
+- **Infra:** PM2, RabbitMQ, Nginx  
+- **Job Queue:** BullMQ, Event Emitter  
+- **Optimization:** Cluster, TinyPool, Caching  
+- **Datasource:** Postgres, Redis  
+
+---
+
+## 2️⃣ Proficient / FTL 🏯
+- **Core : ** ☕ Java 🔖 Dlang  
+- **Frameworks / Libraries:** Laravel, Fiber, React Native  
+
+---
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
