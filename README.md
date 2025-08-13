@@ -3,7 +3,7 @@
 
 ### Corework Build 🏗️
 - **Core :** ⛩️ C# 🐢 NodeJS  
-- **Datasource:** Postgres, Redis  
+- **Datasource:** PostgreSQL, Redis  
 
 ---
 
