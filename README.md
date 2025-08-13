@@ -2,16 +2,16 @@
 <h3 align="center">Backend & App Developer</h3>
 
 ### Corework Build 🏗️
-- **Core : ** ⛩️ C# 🐢 NodeJS  
-- **Infra:** PM2, RabbitMQ, Nginx  
-- **Job Queue:** BullMQ, Event Emitter  
+- **Core :** ⛩️ C# 🐢 NodeJS  
+- **Infra :** PM2, RabbitMQ, Nginx  
+- **Job Queue :** BullMQ, Event Emitter  
 - **Optimization:** Cluster, TinyPool, Caching  
 - **Datasource:** Postgres, Redis  
 
 ---
 
-### Proficient / FTL 🏯
-- **Core : ** ☕ Java 🔖 Dlang  
+### Proficient / FTL 🌵
+- **Core :** ☕ Java 🔖 Dlang  
 - **Frameworks / Libraries:** Laravel, Fiber, React Native  
 
 ---
