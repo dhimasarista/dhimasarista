@@ -1,7 +1,7 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">Backend & App Developer</h3>
 
-## 1️⃣ Corework Build 🏗️
+### Corework Build 🏗️
 - **Core : ** ⛩️ C# 🐢 NodeJS  
 - **Infra:** PM2, RabbitMQ, Nginx  
 - **Job Queue:** BullMQ, Event Emitter  
@@ -10,7 +10,7 @@
 
 ---
 
-## 2️⃣ Proficient / FTL 🏯
+### Proficient / FTL 🏯
 - **Core : ** ☕ Java 🔖 Dlang  
 - **Frameworks / Libraries:** Laravel, Fiber, React Native  
 
