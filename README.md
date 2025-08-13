@@ -12,7 +12,7 @@
 
 ### Proficient / FTL 🌵
 - **Core :** ☕ Java 🔖 Dlang  
-- **Frameworks / Libraries:** Laravel, Fiber, React Native  
+- **Fr / Libs:** Laravel, Fiber, React Native  
 
 ---
 
