@@ -1,13 +1,13 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 <h3 align="center">Backend & App Developer</h3>
 
-### Corework Build 🏗️
+### #1 Corework Build 🏗️
 - **Codebase :** ⛩️ C# 🐢 NodeJS  
 - **Datasource:** PostgreSQL, Redis  
 
 ---
 
-### Proficient / FTL 🌵
+### #2 Proficient / FTL 🌵
 - **Codebase :** ☕ Java 🎴 D
 - **Fr / Libs:** Laravel, Fiber, RN  
 
