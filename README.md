@@ -1,14 +1,14 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 
 ### #1 Corework Build 🏗️
-- **Codebase :** ⛩️ C# 🐢 NodeJS  
+- **Codebase :** ⛩️ C# 🐢 NodeJS
 - **Datasource:** PostgreSQL, Redis  
 
 ### #2 Proficient / FTL 🌵
 - **Codebase :** ☕ Java 🎴 D
 - **Fr / Libs:** Laravel, Fiber, RN  
 
-<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">💻 Software & Tools</h3>
+<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
   <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" style="margin: 5px;" />
