@@ -2,7 +2,7 @@
 
 ### #1 Core : ⛩️ C# 🐘 PostgreSQL
 ### #2 Corework : ☕ Java 🐢 NodeJS
-### # Laravel, Fiber, RN  
+### #Additionals Laravel, Fiber, RN  
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
