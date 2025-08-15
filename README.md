@@ -1,8 +1,10 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 
-### #1 Core : ⛩️ C# 🐘 PostgreSQL
-### #2 Corework : ☕ Java 🐢 NodeJS
-### #Additionals Laravel, Fiber, RN  
+<h3 align="center">a Passionate Backend & App Development</h3>
+
+- #1 Core : ⛩️ C# 🐘 PostgreSQL
+- ### #2 Corework : ☕ Java 🐢 NodeJS
+- ### #Additionals : Laravel, Fiber, RN  
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
