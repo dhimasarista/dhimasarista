@@ -1,10 +1,9 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 I'm passionate about Programming. My interests go beyond code, I enjoy diving into history and socio-political issues. Photography allows me to pause and observe, while design occasionally becomes a creative outlet.
-<br/> <br/>
 
-| 🏗️ Corework           | 🌱 Additionals                      |
-|------------------------|-------------------------------------|
-| ⛩️ C# , 🐢 NodeJS       | ☕ Java , 💰 Laravel , ⚡ Fiber , 📱 RN |
+### ⛩️ Core : C# | PostgreSQL
+### ☕ Corework : NodeJS | Java
+### 🌱 Additionals : Laravel, Fiber, RN
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
