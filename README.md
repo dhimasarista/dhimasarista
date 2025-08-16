@@ -1,6 +1,4 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
-
-<h3 align="center">Backend & App Developer</h3>
 I'm passionate about **Programming.** My interests go beyond code, I enjoy diving into history and socio-political issues. Photography allows me to pause and observe, while design occasionally becomes a creative outlet.
 
 - **#1 Core :** ⛩️ C# 🐘 PostgreSQL
