@@ -1,11 +1,15 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
-I'm passionate about Programming. My interests go beyond code, I enjoy diving into history and socio-political issues. Photography allows me to pause and observe, while design occasionally becomes a creative outlet.
 
-### ⛩️ Corework : C# | NodeJS
-### 🌱 Additionals : Java, Laravel, Fiber, RN
+I’m deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
+
+- ⛩️ **Corework:** C# | NodeJS  
+- 🌱 **Additionals:** Java, Laravel, Fiber, React Native
+
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" style="margin: 5px;" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" style="margin: 5px;" />
