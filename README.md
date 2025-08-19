@@ -2,8 +2,8 @@
 
 I’m deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
 
-- ⛩️ **Corework:** C# | NodeJS  
-- 🌱 **Additionals:** Java, Laravel, Fiber, React Native
+- ⛩️ **Corework:** C# | NodeJS | Java
+- 🌱 **Additionals:** Laravel, Fiber, React Native
 
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
