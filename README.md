@@ -1,6 +1,6 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 
-I’m deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
+deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
 
 - ⛩️ **Corework:** C# | NodeJS
 - 🌱 **Additionals:** Java, Laravel, Fiber 
