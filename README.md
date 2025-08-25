@@ -3,7 +3,12 @@
 deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
 
 - ⛩️ **Corework:** C# | NodeJS
-- 🌵 **Additionals:** Java, Laravel, Fiber 
+- 🌵 **Proficiencies:** Java, Laravel, Fiber
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
+</p>
 
 
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
