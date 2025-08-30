@@ -1,6 +1,6 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 
-⛩️ Deeply passionate about the art of programming. With **C# | NodeJS**, building scalable, performant, and core-systems capable solutions — driven by discipline, innovation, and engineering excellence.
+#### ⛩️ Deeply passionate about the art of programming. With **C# | NodeJS**, building scalable, performant, and core-systems capable. driven by discipline and engineering excellence.
 
 <h3 align="left">🌱 Proficiencies</h3>
 
