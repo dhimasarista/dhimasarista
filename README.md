@@ -1,6 +1,6 @@
-<h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
+<h1 align="center">☕ C# | NodeJS | Programmer </h1>
 
-#### ⛩️ Deeply passionate about the art of programming. With **C# | NodeJS**, building scalable, performant, and core-systems capable. driven by discipline and engineering excellence.
+#### 🏗️ build scalable, performant, core-systems capable and built for precision engineering thats proven by design where strong OOP & syntax, native concurrency, enterprise & metal-access and extreme optimizations.
 
 <h3 align="left">🌱 Proficiencies</h3>
 
