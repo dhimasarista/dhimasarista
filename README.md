@@ -1,28 +1,27 @@
 <h1 align="center">Hi ☕, I'm Dhimas Arista</h1>
 
-deeply passionate about the art of programming. building scalable, performant, and core-systems capable solutions, engineered with precision and proven through work and concept.
+⛩️ Deeply passionate about the art of programming. With **C# | NodeJS**, building scalable, performant, and core-systems capable solutions — driven by discipline, innovation, and engineering excellence.
 
-- ⛩️ **Corework:** C# | NodeJS
-- 🌵 **Proficiencies:** Java, Laravel, Fiber
+<h3 align="left">🌱 Proficiencies</h3>
 
-<h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
-<p style="max-width: 800px; margin: 0 auto; text-align: left;">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/SocketIO-%23B0B0B0?logo=socketdotio&logoColor=black&color=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" style="margin: 5px;" />
-  <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" style="margin: 5px;" />
-</p>
+![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge)
+![Fiber (Go)](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white&style=for-the-badge)
+![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white&style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23B0B0B0?logo=socketdotio&logoColor=black&style=for-the-badge)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white&style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
+![Blockchain.com](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge)
+![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=for-the-badge)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
