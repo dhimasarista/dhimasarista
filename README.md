@@ -5,12 +5,6 @@ deeply passionate about the art of programming. building scalable, performant, a
 - ⛩️ **Corework:** C# | NodeJS
 - 🌵 **Proficiencies:** Java, Laravel, Fiber
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
-</p>
-
-
 <h3 align="left" style="max-width: 600px; margin: 0 auto 1rem 0;">🧰 Software & Tools</h3>
 <p style="max-width: 800px; margin: 0 auto; text-align: left;">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" style="margin: 5px;" />
@@ -28,6 +22,10 @@ deeply passionate about the art of programming. building scalable, performant, a
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white" style="margin: 5px;" />
   <img src="https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df" style="margin: 5px;" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
 
 
