@@ -1,3 +1,5 @@
+# Hi, I'am Dhimas Arista
+
 ##### 🏗️ build scalable, performant, core-systems capable and built for precision engineering thats proven by design where strong OOP & syntax, native concurrency, enterprise & metal-access and extreme optimizations.
 
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
