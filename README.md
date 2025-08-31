@@ -1,7 +1,7 @@
-<h1 align="center">☕ I'm Dhimas Arista</h1>
+<h1 align="center">☕ I'm Dhimas Arista ... C# | NodeJS | Programmer</h1>
 
 <p align="left">
-Passionate Backend & App Developer. My <strong>core work</strong> is in <strong>C# | NodeJS</strong>, while I maintain broader <strong>proficiencies</strong> across the ecosystem, always curious and open to learning new technologies and approaches.
+Pasionate about Backend & App Development. I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context.
 </p>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
