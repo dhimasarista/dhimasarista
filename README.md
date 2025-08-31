@@ -1,25 +1,26 @@
-## ☕ C# | NodeJS | Programmer
+<h1 align="center">☕ I'm Dhimas Arista</h1>
 
-##### 🏗️ build scalable, performant, core-systems capable and built for precision engineering thats proven by design where strong OOP & syntax, native concurrency, enterprise & metal-access and extreme optimizations.
+<p align="left">
+Passionate Backend & App Developer. My <strong>core work</strong> is in <strong>C# | NodeJS</strong>, while I maintain broader <strong>proficiencies</strong> across the ecosystem, always curious and open to learning new technologies and approaches.
+</p>
 
-![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge)
-![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge)
-![Fiber (Go)](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white&style=for-the-badge)
-![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white&style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23B0B0B0?logo=socketdotio&logoColor=black&style=for-the-badge)
-![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white&style=for-the-badge)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=for-the-badge)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white&style=for-the-badge)
-![Blockchain.com](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=for-the-badge)
-![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?logo=linux&logoColor=black&style=flat-square)
+![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white&style=flat-square)
+![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white&style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-%23B0B0B0?logo=socketdotio&logoColor=black&style=flat-square)
+![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white&style=flat-square)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
+![Blockchain.com](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=flat-square)
+![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=flat-square)
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
@@ -28,6 +29,9 @@
 
 
 <!--
+![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk\&logoColor=white\&style=for-the-badge)
+![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel\&logoColor=white\&style=for-the-badge)
+![Fiber (Go)](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go\&logoColor=white\&style=for-the-badge)
 | Core | Corework | Proficiencies |
 |-------------------------|----------------------|----------------------|
 | ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
