@@ -10,7 +10,7 @@ Pasionate about Backend & App Development. I leverage their extensive ecosystems
 ![Git](https://img.shields.io/badge/Git-%23F1502F?logo=git&logoColor=white&style=flat-square)
 ![DBeaver](https://img.shields.io/badge/DBeaver-%234A90E2?logo=dbeaver&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-%23B0B0B0?logo=socketdotio&logoColor=black&style=flat-square)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-282a36?logo=socketdotio&logoColor=white&style=flat-square)
 ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-%23FF5722?logo=jest&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639?logo=nginx&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white&style=flat-square)
@@ -19,7 +19,6 @@ Pasionate about Backend & App Development. I leverage their extensive ecosystems
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=flat-square)
 ![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=flat-square)
-
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
