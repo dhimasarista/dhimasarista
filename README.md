@@ -4,7 +4,7 @@
 Passionate about Software Engineering. With a focus on building scalable and performant systems, where concurrency meets caffeine.
 </p>
 
-- ⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
+```⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew```
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
