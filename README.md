@@ -1,8 +1,10 @@
 <h1 align="center">☕ C# | NodeJS | Programmer</h1>
 
 <p align="left">
-Pasionate about Backend & App Development. I leverage their extensive ecosystems to build efficient software solutions ranging from RESTful API services to monolithic applications on project context.
+Passionate about Software Engineering. With a focus on building scalable and performant systems, where concurrency meets caffeine.
 </p>
+
+- ⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
