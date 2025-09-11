@@ -1,7 +1,7 @@
 <h1 align="left">☕ C# | NodeJS | Programmer</h1>
 
 <p align="left">
-Passionate about Software Engineering. With a focus on building scalable and performant systems, where concurrency meets caffeine.
+Passionate about Software Engineering. With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.
 </p>
 
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
