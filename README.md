@@ -1,4 +1,4 @@
-<h1 align="left"☕ >C# & NodeJS | Programmer</h1>
+<h1 align="left">☕ C# & NodeJS | Programmer</h1>
 <p align="left">A Passionate about Software Development With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.</p>
 
 ```SQL
