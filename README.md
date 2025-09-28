@@ -1,9 +1,13 @@
-<h1 align="left">☕ C# & NodeJS | Programmer</h1>
+<h1 align="left">Hi 👋, I'm Dhimas Arista</h1>
+<p align="left">A Passionate about Software Development With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.</p>
 
-<p align="left">
-Passionate about Software Engineering. With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.
-</p>
-
+```SQL
+🛠️ Corework : CSharp & NodeJS | Java
+🚀 Projects 
+   1. Nakoin : ⚡ NodeJS | ⚛ React | 🐘 PostgreSQL
+   2. TZ-Presale : ⚡ NodeJS | ⚛ React | 🐘 PostgreSQL
+   3. TZ-Explorer : ☕ Java | ⚛ React | 🐘 PostgreSQL
+```
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
