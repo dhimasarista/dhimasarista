@@ -1,7 +1,7 @@
-<h1 align="left">☕ C# & NodeJS | Programmer</h1>
+<h1 align="left">☕ C# | NodeJS | Programmer</h1>
 <p align="left">A Passionate about Software Development With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.</p>
 
-### 🦈 C# | 🌳 NodeJS | ☕ Java | ⚛ React | 🐘 PostgreSQL | 🔴 Redis | 🦭 Podman | 🌐 Nginx | 🐇 RabbitMQ
+<img width="1368" height="428" alt="image" src="https://github.com/user-attachments/assets/14a10c51-f7cb-48bf-b806-41fcab62f3e3" />
 
 ```SQL
 🚀 Projects 
