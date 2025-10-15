@@ -1,5 +1,6 @@
-<h1 align="left">🎴 C# & NodeJS | Programmer</h1>
+<h1 align="left">🎴 Dhimas Arista | C# & NodeJS | Programmer</h1>
 <p align="left">A Passionate about Software Development With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.</p>
+<img width="1248" height="832" alt="generated-image (2)" src="https://github.com/user-attachments/assets/e5af563e-a3a6-433e-aea8-2956a0770ffd" />
 
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
 
