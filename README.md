@@ -1,6 +1,15 @@
-<h1 align="left">🎴 C# & NodeJS | Programmer</h1>
-<p align="left">A Passionate about Software Development With a focus on building scalable and performant systems. where concurrency meets caffeine, bytecode brew resilience.</p>
-<img width="1248" height="832" alt="generated-image (2)" src="https://github.com/user-attachments/assets/e5af563e-a3a6-433e-aea8-2956a0770ffd" />
+<img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
+<h1 align="center">🎴 C# & NodeJS | Programmer</h1>
+<p align="left">Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
+I prefer using C# & NodeJS | Java as an additional stack that provides the most efficient solution. I am always open to learning new technologies, approaches, and ideas to continuously improve and innovate.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
+  <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
+  <a href="mailto:mdhimasarista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
+  <a href="https://dhimasarista.github.io"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
+</p>
 
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
 
@@ -36,8 +45,3 @@
 | ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
 
 ![MSSQL](https://custom-icon-badges.demolab.com/badge/MSSQL-EB5A5A.svg?logo=mssql&logoColor=white)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/dhimasarista/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/codedhims/)](https://www.instagram.com/codedhims)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:mdhimasarista@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://dhimasarista.github.io)](https://dhimasarista.github.io)
-[![Github](https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social)](https://github.com/dhimasarista)
