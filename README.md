@@ -1,7 +1,7 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
 <h1 align="center">🎴 C# & NodeJS | Programmer</h1>
 <p align="left">Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
-I prefer using C# & NodeJS | Java as an additional stack that provides the most efficient solution. I am always open to learning new technologies, approaches, and ideas to continuously improve and innovate.</p>
+I prefer using C# & NodeJS | Java | Swift as an additional stack that provides the most efficient solution. I am always open to learning new technologies, approaches, and ideas to continuously improve and innovate.</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
