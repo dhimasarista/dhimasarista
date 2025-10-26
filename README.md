@@ -3,7 +3,7 @@
 <p align="left">
 Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
 
-I prefer using C# & NodeJS | Java | Swift, while staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
+I prefer using C# & NodeJS, while staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
 <p align="center">
