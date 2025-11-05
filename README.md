@@ -1,9 +1,9 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
-<h1 align="center">🎴 C# & NodeJS | Programmer</h1>
+<h1 align="center">🎴 C# & Zig | Programmer</h1>
 <p align="left">
 Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
 
-I prefer using C# & NodeJS | Java, Swift. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
+I prefer using C# & Zig | NodeJS | Java. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
 <p align="center">
