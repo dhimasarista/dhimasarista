@@ -1,5 +1,5 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
-<h1 align="center">🎴 Dhimasarista | Programmer & App Developer</h1>
+<h1 align="center">⛾ Dhimas Arissta | ARC⌗Σage</h1>
 <p align="left">
 Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
 
@@ -32,11 +32,11 @@ I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=white&style=flat-square)
 ![Bun](https://img.shields.io/badge/Bun-282a36?logo=bun&logoColor=fbf0df&style=flat-square)
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
 </p>
-
+ -->
 
 
 <!--
