@@ -1,17 +1,16 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
 <h1 align="center">⛾ Dhimas Arissta | ARC⌗Σage</h1>
-<p align="left">
-Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
-
-I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
   <a href="mailto:mdhimasarista@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" /></a>
   <a href="https://dhimasarista.github.io"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
+</p>
+<p align="left">
+Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
+
+I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
