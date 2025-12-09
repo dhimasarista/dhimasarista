@@ -8,7 +8,7 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-Passionate about Software Development, focused on building scalable and performant systems where concurrency meets caffeine and bytecode brews resilience.
+Passionate about Software Development, with motto build scalable and performant systems where ideas meet bold execution
 
 I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
