@@ -16,7 +16,7 @@ I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems
 >⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E60012?logo=redis&logoColor=white&style=flat-square)
+![Database](https://img.shields.io/badge/KeyDB-F7DF1E?style=flat-square&logo=database&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
