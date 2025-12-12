@@ -13,10 +13,12 @@ Passionate about Software Development, with motto build scalable and performant 
 I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems that deliver efficiency and strong design principles. Always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
->⛩️ "At the end of the day, it is not about what you say, but what you deliver" - Lee Kuan Yew
+> ⛩️ "Want to know what's more destructive than a nuclear bomb? Words." — Kim Jong-un
 
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![Database](https://img.shields.io/badge/KeyDB-F7DF1E?style=flat-square&logo=database&logoColor=white)
+![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
 ![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
@@ -25,8 +27,6 @@ I prefer using C# & Zig | Java Rust. While staying adaptable to other ecosystems
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white&style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-282a36?logo=socketdotio&logoColor=white&style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
