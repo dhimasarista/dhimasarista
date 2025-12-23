@@ -8,7 +8,7 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">Passionate about Software Development. with motto build scalable and performant systems where ideas meet bold execution. 
- I prefer using C# & Zig | Java | Rust. Always eager to learn new technologies, approaches and ideas to continuously improve and innovate.
+ I prefer using C# & Zig | Java Rust. Always eager to learn new technologies, approaches and ideas to continuously improve and innovate.
 </p>
 
 > ⛩️ "Want to know what's more destructive than a nuclear bomb? Words." — Kim Jong-un
