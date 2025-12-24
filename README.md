@@ -1,5 +1,5 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
-<h1 align="center">⛾ Dhimas Arista | ARC⌗Σage</h1>
+<h1 align="center">⛾ Dhimas Arista | Programmer</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
@@ -7,9 +7,19 @@
   <a href="https://dhimasarista.github.io"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
-<p align="left">Passionate about Software Development. with motto build scalable and performant systems where ideas meet bold execution. 
- I prefer using C# & Zig | Java Rust. Always eager to learn new technologies, approaches and ideas to continuously improve and innovate.
+<p align="left">
+Concurrency meets caffeine, bytecode brews resilience.
+Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
+
+- ☕ Corework : C# Zig | Java Rust
+- 🎴 Frontend : React, Shadcn/UI
+- 🏇🏻 Backend : NodeJS, Laravel 
+---
+
+- 🐧 App Dev : Frontend + Backend
+- 🦖 IIoT : Eclipse, MicroEJ, RTOS
+- 🦉 Data/ML : IJava, Tribuo, DL4J
 
 > ⛩️ "Want to know what's more destructive than a nuclear bomb? Words." — Kim Jong-un
 
