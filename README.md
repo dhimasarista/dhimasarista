@@ -12,14 +12,14 @@ Concurrency meets caffeine, bytecode brews resilience.
 Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
-- ☕ Corework : C# Zig | Java Rust
-- 🎴 Frontend : React, Shadcn/UI
-- 🏇🏻 Backend : NodeJS, Laravel
+- ☕ **Code** : C# Zig | Java Rust
+- 🏇🏻 **Backend** : NodeJS, Laravel
+- 🎴 **Frontend** : React, Shadcn/UI
 ---
 
-- 🐧 App Dev : Frontend + Backend
-- 🦖 IIoT : Eclipse, MicroEJ, RTOS
-- 🦉 Data/ML : IJava, Tribuo, DL4J
+- 🐧 **App Dev** : Frontend + Backend
+- 🦖 **IIoT** : Eclipse, MicroEJ, RTOS
+- 🦉 **Data/ML** : IJava, Tribuo, DL4J
 
 > ⛩️ "Want to know what's more destructive than a nuclear bomb? Words." — Kim Jong-un
 
