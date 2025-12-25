@@ -15,7 +15,6 @@ Passionate about software development and always eager to learn new technologies
 - ☕ Corework : C# Zig | Java Rust
 - 🎴 Frontend : React, Shadcn/UI
 - 🏇🏻 Backend : NodeJS, Laravel
-- 🧩 Occasional : Fiber, FastAPI
 ---
 
 - 🐧 App Dev : Frontend + Backend
