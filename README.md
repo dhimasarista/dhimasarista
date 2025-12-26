@@ -12,8 +12,8 @@ Concurrency meets caffeine, bytecode brews resilience.
 Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
-- ☕ **Code** : C# Zig | Java Rust
-- 🏇🏻 **Backend** : NodeJS, Laravel
+- ☕ **Code** : C# Rust
+- 🏇🏻 **Backend** : Java, NodeJS
 - 🎴 **Frontend** : React, Shadcn/UI
 ---
 
@@ -25,10 +25,6 @@ Passionate about software development and always eager to learn new technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![Node.js](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?logo=go&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
