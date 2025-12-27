@@ -12,7 +12,7 @@ Concurrency meets caffeine, bytecode brews resilience.
 Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
-- ☕ **Code** : C# Rust
+- ☕ **Codework** : C# Rust
 - 🏇🏻 **Workhorse** : Java, NodeJS
 - 🎴 **Frontend** : React, Shadcn/UI
 ---
