@@ -13,7 +13,7 @@ Passionate about software development and always eager to learn new technologies
 </p>
 
 - ☕ **Code** : C# Rust
-- 🏇🏻 **Backend** : Java, NodeJS
+- 🏇🏻 **Workhorse** : Java, NodeJS
 - 🎴 **Frontend** : React, Shadcn/UI
 ---
 
