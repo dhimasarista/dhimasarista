@@ -21,7 +21,7 @@ Passionate about software development and always eager to learn new technologies
 - 🦖 **IIoT** : Eclipse, MicroEJ, RTOS
 - 🦉 **Data/ML** : IJava, Tribuo, DL4J
 
-> ⛩️ "Want to know what's more destructive than a nuclear bomb? Words." — Kim Jong-un
+> ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
