@@ -8,8 +8,7 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-Concurrency meets caffeine, bytecode brews resilience.
-Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
+Concurrency meets caffeine...always eager to learn new technologies, approaches and ideas to continuously improve and innovate.
 </p>
 
 - ☕ **Codework** : C# Rust | Java NodeJS
