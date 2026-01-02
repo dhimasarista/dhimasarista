@@ -12,14 +12,8 @@ Concurrency meets caffeine, bytecode brews resilience.
 Passionate about software development and always eager to learn new technologies, approaches, and ideas to continuously improve and innovate.
 </p>
 
-- ☕ **Codework** : C# Rust
-- 🏇🏻 **Workhorse** : Java, NodeJS
+- ☕ **Codework** : C# Rust | Java NodeJS
 - 🎴 **Frontend** : React, Shadcn/UI
----
-
-- 🐧 **App Dev** : Frontend + Backend
-- 🦖 **IIoT** : Eclipse, MicroEJ, RTOS
-- 🦉 **Data/ML** : IJava, Tribuo, DL4J
 
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
