@@ -1,5 +1,4 @@
 <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
-<h1 align="center">⛾ Dhimas Arista | Programmer</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
