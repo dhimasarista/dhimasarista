@@ -7,19 +7,20 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-☕ <b>C# Rust | Java NodeJS</b>...Concurrency meets caffeine, and I’m always eager to explore new approaches and ideas to continuously innovate.
+☕ concurrency meets caffeine, and I’m always eager to explore new approaches and ideas to continuously innovate.
 </p>
 
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?logo=vault&logoColor=white&style=flat-square)
+![HashiCorp](https://img.shields.io/badge/HashiCorp-000000?logo=hashicorp&logoColor=white&style=flat-square)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-282a36?logo=socketdotio&logoColor=white&style=flat-square)
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
@@ -28,6 +29,7 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 ![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
+
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
