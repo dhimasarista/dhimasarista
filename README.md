@@ -13,8 +13,8 @@
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
-![TanStack](https://img.shields.io/badge/TanStack%20Start-14B8A6?logo=tanstack&logoColor=white&style=flat-square)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white&style=flat-square)
+![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-F3F4F6?style=flat-square&logo=shadcnui&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
