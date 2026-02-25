@@ -13,8 +13,7 @@
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
 ![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white&style=flat-square)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![TanStack](https://img.shields.io/badge/TanStack%20Start-14B8A6?logo=tanstack&logoColor=white&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
@@ -42,6 +41,7 @@
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk\&logoColor=white\&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel\&logoColor=white\&style=for-the-badge)
 ![Fiber (Go)](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go\&logoColor=white\&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 | Core | Corework | Proficiencies |
 |-------------------------|----------------------|----------------------|
 | ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-%23E0559F.svg?logo=cshrp&logoColor=white&style=for-the-badge) ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk&logoColor=white&style=for-the-badge) | ![NodeJS](https://img.shields.io/badge/NodeJS-339933.svg?logo=node.js&logoColor=white&style=for-the-badge) | ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel&logoColor=white&style=for-the-badge) ![Go](https://img.shields.io/badge/Fiber-%2300ADD8.svg?logo=go&logoColor=white&style=for-the-badge)	![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) |
