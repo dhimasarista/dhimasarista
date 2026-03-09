@@ -16,19 +16,17 @@
 ![NextJS](https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-F3F4F6?style=flat-square&logo=shadcnui&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=dragonfly&logoColor=white)
+![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![HashiCorp](https://img.shields.io/badge/HashiCorp-000000?logo=hashicorp&logoColor=white&style=flat-square)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-282a36?logo=socketdotio&logoColor=white&style=flat-square)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white&style=flat-square)
+![ZeroMQ](https://img.shields.io/badge/ZeroMQ-E03C31?style=flat-square&logo=okta&logoColor=white)
+![WebSocket](https://img.shields.io/badge/Websocket-282a36?logo=socket&logoColor=white&style=flat-square)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-![Argo CD](https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white&style=flat-square)
-
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
