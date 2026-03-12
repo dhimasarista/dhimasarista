@@ -7,7 +7,7 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-☕ concurrency meets caffeine, and I’m always eager to explore new approaches and ideas to continuously innovate.
+☕ Concurrency Meets Caffeine, Bytecode Brews Resilience. Learning without dogma..Seeing without closing other paths. Continuously exploring new approaches or ideas to improve, adapt and innovate.
 </p>
 
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
