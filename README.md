@@ -15,6 +15,7 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-F3F4F6?style=flat-square&logo=shadcnui&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
