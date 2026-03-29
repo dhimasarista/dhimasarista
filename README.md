@@ -13,22 +13,22 @@
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat-square)
+![Rust](https://img.shields.io/badge/Rust-262626?logo=rust&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-F3F4F6?style=flat-square&logo=shadcnui&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
 ![ZeroMQ](https://custom-icon-badges.demolab.com/badge/ZeroMQ-FFFFFF?logo=zeromq&logoColor=white&style=flat-square)
-![WebSocket](https://custom-icon-badges.demolab.com/badge/Websocket-000000?logo=websocket&logoColor=white&style=flat-square)
+![WebSocket](https://custom-icon-badges.demolab.com/badge/Websocket-262626?logo=websocket&logoColor=white&style=flat-square)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![HashiCorp](https://img.shields.io/badge/HashiCorp-000000?logo=hashicorp&logoColor=white&style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-![GitHub](https://img.shields.io/badge/Github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
