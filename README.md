@@ -15,7 +15,6 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/Shadcn%2FUI-F3F4F6?style=flat-square&logo=shadcnui&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
@@ -27,7 +26,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
 
 <!-- <p align="left">
@@ -38,6 +37,7 @@
 
 
 <!--
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/NodeJS-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23F1413D.svg?logo=openjdk\&logoColor=white\&style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/Laravel-EB6A4A?logo=laravel\&logoColor=white\&style=for-the-badge)
