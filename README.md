@@ -7,7 +7,7 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-☕ Measure before you move. Always feedback, always learning. Stay constraint-aware, think analytically.
+☕ Measure before you move, Learn through feedback. Stay constraint-aware, Think Analytically.
 </p>
 
 > ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
