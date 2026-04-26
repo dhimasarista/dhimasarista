@@ -15,7 +15,7 @@
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
-![cappuccino](https://custom-icon-badges.demolab.com/badge/Cappuccino-F3F4F6?logo=lucide-coffee&logoColor=white&style=flat-square)
+![Null](https://custom-icon-badges.demolab.com/badge/Null-F3F4F6?logo=lucide-coffee&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
 ![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
 ![ZeroMQ](https://custom-icon-badges.demolab.com/badge/ZeroMQ-FFFFFF?logo=zeromq&logoColor=white&style=flat-square)
