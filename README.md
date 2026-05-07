@@ -7,10 +7,8 @@
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
 <p align="left">
-☕ Measure before you move, Learn through feedback. Stay constraint-aware, Think Analytically.
+☕ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 </p>
-
-> ⛩️ "Science without morality is lame, and morality without science is blind." — B.J. Habibie
 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust&logoColor=white&style=flat-square)
