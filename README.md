@@ -1,4 +1,5 @@
-<img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
+<!-- <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" /> -->
+# Dhimas Arista
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
@@ -6,6 +7,8 @@
   <a href="https://dhimasarista.github.io"><img src="https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white" /></a>
   <a href="https://github.com/dhimasarista"><img src="https://img.shields.io/github/followers/dhimasarista?label=Follow&style=social" /></a>
 </p>
+
+Passionate about programming, staying adaptable across different domains. Beyond technical, I’m interested in socio-pol and other areas that offer meaningful insight.
 
 > ⛩️ Science without morality is lame, and morality without science is blind. — B.J. Habibie
 
@@ -25,6 +28,7 @@
 ![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=pranesh-2005&theme=radical)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
