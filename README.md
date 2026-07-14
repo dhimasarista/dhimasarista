@@ -28,7 +28,6 @@ Passionate about programming, staying adaptable across different domains. Beyond
 ![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=dhimasarista&hide_progress=true)](https://github.com/dhimasarista)
 [![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=dhimasarista&theme=radical)](https://github.com/dhimasarista/github-readme-stats-fast)
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
