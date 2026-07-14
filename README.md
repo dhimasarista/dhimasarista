@@ -1,5 +1,4 @@
-<!-- <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" /> -->
-# Dhimas Arista
+<img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
@@ -28,7 +27,6 @@ Passionate about programming, staying adaptable across different domains. Beyond
 ![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
 
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=dhimasarista&theme=radical)](https://github.com/dhimasarista/github-readme-stats-fast)
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
