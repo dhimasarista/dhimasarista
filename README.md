@@ -9,7 +9,7 @@
 
 Passionate about programming, staying adaptable across different domains. Beyond technical, I’m interested in socio-pol and other areas that offer meaningful insight.
 
-> ⛩️ Science without morality is lame, and morality without science is blind. — B.J. Habibie
+> ⛩️ Tooi michi no rimo ippo kara hajimaru / A long journey begins with a single step.
 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![Rust](https://img.shields.io/badge/Rust-262626?logo=rust&logoColor=white&style=flat-square)
