@@ -14,7 +14,6 @@ Passionate about programming, staying adaptable across different domains. Beyond
 
 * 🔭 I’m currently working on NextJS & Spring Boot
 * 🌱 I’m currently exploring Technical Architecture
-* 📫 How to reach me: [LinkedIn](linkedin.com/in/dhimasarista) | [Instagram](instagram.com/codedhims)
   
 > ⛩️ Tooi michi no rimo ippo kara hajimaru / A long journey begins with a single step.
 
