@@ -1,4 +1,7 @@
-<img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" />
+<!-- <img height="100%" alt="generated-image (2)" src="https://i.redd.it/fisnfas5ip7c1.gif" /> -->
+
+<img width="2008" height="1040" alt="b15bd596014d9d9310e59b07b85da550" src="https://github.com/user-attachments/assets/1dccd483-7a5e-4dde-b90a-a2e634da9b04" />
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dhimasarista/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" /></a>
   <a href="https://www.instagram.com/codedhims"><img src="https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white" /></a>
