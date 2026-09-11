@@ -12,9 +12,8 @@
 
 Passionate about programming, staying adaptable across different domains. Beyond technical, I’m interested in socio-pol and other areas that offer meaningful insight.
 
-* 🔭 I’m currently working on NextJS & Ktor (CIO)
+* 💼 I’m currently working as a Software & IIoT Engineer
 * 🌱 I’m currently exploring Technical Architecture
-* 📚 I’m currently learning Kotlin Multiplatform (KMP)
 
 > ⛩️ Tooi michi no rimo ippo kara hajimaru / A long journey begins with a single step.
 
