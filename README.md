@@ -12,8 +12,9 @@
 
 Passionate about programming, staying adaptable across different domains. Beyond technical, I’m interested in socio-pol and other areas that offer meaningful insight.
 
-* 💼 I’m currently working as a Software Engineer
-* 🌱 I’m currently exploring Technical Architecture
+* 💼 Currently working as a Software Engineer
+* 🌱 Also exploring Technical Architecture
+* 🧠 Learning jitter-free & memory-safe systems
 
 > ⛩️ Tooi michi no rimo ippo kara hajimaru / A long journey begins with a single step.
 
