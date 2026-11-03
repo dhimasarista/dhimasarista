@@ -20,20 +20,20 @@ Passionate about programming, staying adaptable across different domains. Beyond
 
 ![C#](https://custom-icon-badges.demolab.com/badge/CSharp-EC4899?logo=cshrp&logoColor=white&style=flat-square)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)
+![Coffee](https://custom-icon-badges.demolab.com/badge/Coffee-F3F4F6?logo=lucide-coffee&logoColor=white&style=flat-square)
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white&style=flat-square)
-![Null](https://custom-icon-badges.demolab.com/badge/Coffee-F3F4F6?logo=lucide-coffee&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=flat-square)
-![DragonflyDB](https://img.shields.io/badge/DragonflyDB-E03C31?style=flat-square&logo=redis&logoColor=white)
-![ZeroMQ](https://custom-icon-badges.demolab.com/badge/ZeroMQ-FFFFFF?logo=zeromq&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-E03C31?style=flat-square&logo=redis&logoColor=white)
 ![WebSocket](https://custom-icon-badges.demolab.com/badge/Websocket-262626?logo=websocket&logoColor=white&style=flat-square)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Nomad](https://img.shields.io/badge/Nomad-262626?logo=hashicorp&logoColor=white&style=flat-square)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white&style=flat-square)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat-square)
+![RabbitMQ](https://custom-icon-badges.demolab.com/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-square)
 <!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=dhimasarista&show_icons=true&theme=radical" alt="stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhimasarista&layout=compact&theme=radical" alt="langs" height="150"/>
