@@ -14,7 +14,7 @@ Passionate about programming, staying adaptable across different domains. Beyond
 
 * 💼 Currently working as a Software Engineer
 * 🌱 Also exploring Technical Architecture
-* 🧠 Learning jitter-free & memory-safe systems
+* 🧠 Learning memory safety and systems programming
 
 > ⛩️ Tooi michi no rimo ippo kara hajimaru / A long journey begins with a single step.
 
